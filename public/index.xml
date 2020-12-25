@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wibucode</title>
+    <link>https://wibucode.com/</link>
+    <description>Recent content on Wibucode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Thu, 24 Dec 2020 10:07:20 +0700</lastBuildDate><atom:link href="https://wibucode.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pengenalan HTML</title>
+      <link>https://wibucode.com/posts/html/pengenalan-html/</link>
+      <pubDate>Thu, 24 Dec 2020 10:07:20 +0700</pubDate>
+      
+      <guid>https://wibucode.com/posts/html/pengenalan-html/</guid>
+      <description>👋 Selamat datang di materi pembelajaran HTML bersama Wibucode, sebelum kita belajar mengenai HTML, kalian pasti sudah sangat familiar bukan dengan yang namanya Website?</description>
+    </item>
+    
+    <item>
+      <title>Pengenalan Hugo</title>
+      <link>https://wibucode.com/posts/hugo/pengenalan/</link>
+      <pubDate>Sun, 20 Dec 2020 17:14:09 +0800</pubDate>
+      
+      <guid>https://wibucode.com/posts/hugo/pengenalan/</guid>
+      <description>Apa sih Hugo itu? &amp;ldquo;Hugo&amp;rdquo; ya bukan &amp;ldquo;Hago&amp;rdquo; itu beda lagi.</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://wibucode.com/project/posts/</link>
+      <pubDate>Sat, 19 Dec 2020 21:58:15 +0800</pubDate>
+      
+      <guid>https://wibucode.com/project/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path</title>
+      <link>https://wibucode.com/path/</link>
+      <pubDate>Sat, 12 Dec 2020 22:52:04 +0700</pubDate>
+      
+      <guid>https://wibucode.com/path/</guid>
+      <description>Path Path pengembangan web front End HTML HTML Dasar
+HTML Lanjutan</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://wibucode.com/about/</link>
+      <pubDate>Tue, 08 Dec 2020 22:08:49 +0700</pubDate>
+      
+      <guid>https://wibucode.com/about/</guid>
+      <description>Ini halaman About</description>
+    </item>
+    
+    <item>
+      <title>Apa kata mereka?</title>
+      <link>https://wibucode.com/testimonials/posts/</link>
+      <pubDate>Tue, 08 Dec 2020 03:38:23 +0700</pubDate>
+      
+      <guid>https://wibucode.com/testimonials/posts/</guid>
+      <description>Apa Kata Mereka? “ saya mendapatkan banyak pengetahuan, teman seperjuangan dan keseruan “</description>
+    </item>
+    
+    <item>
+      <title>Buku</title>
+      <link>https://wibucode.com/rekomendasi/buku/</link>
+      <pubDate>Sat, 28 Nov 2020 00:44:40 +0700</pubDate>
+      
+      <guid>https://wibucode.com/rekomendasi/buku/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

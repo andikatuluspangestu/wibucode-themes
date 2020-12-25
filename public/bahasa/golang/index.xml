@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golang on Wibucode</title>
+    <link>https://wibucode.com/bahasa/golang/</link>
+    <description>Recent content in Golang on Wibucode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Sun, 20 Dec 2020 17:14:09 +0800</lastBuildDate><atom:link href="https://wibucode.com/bahasa/golang/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pengenalan Hugo</title>
+      <link>https://wibucode.com/posts/hugo/pengenalan/</link>
+      <pubDate>Sun, 20 Dec 2020 17:14:09 +0800</pubDate>
+      
+      <guid>https://wibucode.com/posts/hugo/pengenalan/</guid>
+      <description>Apa sih Hugo itu? &amp;ldquo;Hugo&amp;rdquo; ya bukan &amp;ldquo;Hago&amp;rdquo; itu beda lagi.</description>
+    </item>
+    
+  </channel>
+</rss>

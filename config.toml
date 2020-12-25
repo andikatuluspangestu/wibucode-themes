@@ -1,0 +1,13 @@
+baseURL = "https://wibucode.com/"
+languageCode = "id-id"
+title = "Wibucode"
+theme = "wibucode"
+summaryLength = 10
+paginate = 6
+[params]
+    Description = "Komunitas Programmer dan UI/UX Designer"
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+    topik = "topik"
+    bahasa = "bahasa"

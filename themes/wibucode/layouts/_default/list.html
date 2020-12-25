@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+<br><br><br><br><br>
+    <div class="section-header text-center">
+        <h1>{{ .Title }}</h1>
+        <p>Apa saja sih yang kami buat di wibucode?</p>
+    </div>
+    <br><br>
+            <div class="container">
+                <div class="section-body">
+                    <div class="row">
+                        {{ range .Paginator.Pages }}
+                        <div class="col-md-4 mb-5">
+                            <div class="card">
+                                <a href=" {{ .Permalink }} ">
+                                    <img src="/img/{{ .Params.featured_image }}" alt="" class="card-img-top">
+                                </a>
+                                <div class="card-body">
+                                    <h3 class="card-title"><a href=" {{ .Permalink }} ">{{ .Title }}</a></h3>
+                                </div>
+                            </div>
+                        </div>
+                        {{ end }}
+
+
+                        <div class="artikel-pagination">
+                            {{ template "_internal/pagination.html" . }}
+                        </div>
+                    </div>
+
+
+
+                </div>
+            </div>
+    </div>
+
+
+
+{{end}}

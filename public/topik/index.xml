@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topik on Wibucode</title>
+    <link>https://wibucode.com/topik/</link>
+    <description>Recent content in Topik on Wibucode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Thu, 24 Dec 2020 10:07:20 +0700</lastBuildDate><atom:link href="https://wibucode.com/topik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Html Dasar</title>
+      <link>https://wibucode.com/topik/html-dasar/</link>
+      <pubDate>Thu, 24 Dec 2020 10:07:20 +0700</pubDate>
+      
+      <guid>https://wibucode.com/topik/html-dasar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pengenalan Hugo</title>
+      <link>https://wibucode.com/topik/pengenalan-hugo/</link>
+      <pubDate>Sun, 20 Dec 2020 17:14:09 +0800</pubDate>
+      
+      <guid>https://wibucode.com/topik/pengenalan-hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

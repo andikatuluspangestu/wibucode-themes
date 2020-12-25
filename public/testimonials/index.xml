@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testimonials on Wibucode</title>
+    <link>https://wibucode.com/testimonials/</link>
+    <description>Recent content in Testimonials on Wibucode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>id-id</language>
+    <lastBuildDate>Tue, 08 Dec 2020 03:38:23 +0700</lastBuildDate><atom:link href="https://wibucode.com/testimonials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apa kata mereka?</title>
+      <link>https://wibucode.com/testimonials/posts/</link>
+      <pubDate>Tue, 08 Dec 2020 03:38:23 +0700</pubDate>
+      
+      <guid>https://wibucode.com/testimonials/posts/</guid>
+      <description>Apa Kata Mereka? “ saya mendapatkan banyak pengetahuan, teman seperjuangan dan keseruan “</description>
+    </item>
+    
+  </channel>
+</rss>
